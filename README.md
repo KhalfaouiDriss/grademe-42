@@ -1,7 +1,7 @@
-# 42_EXAM RIO 🎓
+# 42_EXAM 🎓
 ## All 42 exams for practice.
 ## ExamRank02, 03, 04, 05, 06 & PiscineExam
-#### Disclaimer: This project is a "fork" of 42_exam by [JCluzet](https://github.com/JCluzet). All credits for this project go to them. This fork aims to provide knowledge freely and open source, bringing improvements focused on the 42Rio campus.
+#### Disclaimer: This project is a "fork" of 42_exam by [JCluzet](https://github.com/JCluzet). All credits for this project go to them. This fork aims to provide knowledge freely and open source, bringing improvements focused on the campus.
 
 -----
 
@@ -47,18 +47,3 @@
 
 # 👮‍♀️ GDPR:
   NO personal information is collected during the Exam
-
-# Contribute by adding a new exercise:
-
-📄 Read the documentation: [Contribution DOC](CONTRIBUTING.md)
-
-# Disclaimer:
-
-This project is a "fork" of 42_exam by [JCluzet](https://github.com/JCluzet). All credits for this project go to them.
-This fork aims to provide knowledge freely and open source, bringing improvements focused on the 42Rio campus,
-with the purpose of helping students understand their mistakes and improve from them.
-Grademe is and always will be a non-profit tool with purely educational purposes.
-
-# Your help is very welcome
-
-👋 Se você tiver problema com algum teste, crie uma "Issue" aqui no Github, levará apenas 3 minutos do seu tempo e será de grande ajuda para a comunidade.
