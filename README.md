@@ -12,7 +12,7 @@
 
 # Getting Started
 
-``` git clone https://github.com/AllanDantas21/GradeM3_42Rio && cd GradeM3_42Rio && make && make```
+``` git clone git@github.com:KhalfaouiDriss/grademe-42.git && cd grademe-42 && make && make```
 
 
 
